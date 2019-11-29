@@ -1,0 +1,14 @@
+#footer {
+ background: rgb(96, 81, 119);
+}
+#footer a{
+    color: white;
+}
+#header img{
+    width: 50px;
+}
+#perfil img{
+    display:block;
+    margin:auto;
+    width: 200px;
+}
